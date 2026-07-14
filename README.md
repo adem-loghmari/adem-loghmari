@@ -6,7 +6,7 @@ Full-stack software engineer. Currently building [GetSeat](https://getseat.dev) 
 - Contributing fixes upstream to open-source projects I use — Medusa, Payload, Hatchet, Plane, refine
 - ICT Engineering — ENET'Com Sfax
 - [LinkedIn](https://www.linkedin.com/in/adam-hmida-loghmari-8756b22b1/) · hmidaloghmariadam@gmail.com
-
+- [adamloghmari.dev](adamloghmari.dev) 
 #### Stack
 
 Frontend — React, Next.js, TypeScript, Tailwind CSS
