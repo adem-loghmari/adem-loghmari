@@ -22,9 +22,9 @@ Data — PostgreSQL, MySQL, MongoDB, Prisma
 | [medusajs/medusa](https://github.com/medusajs/medusa/pull/16030) | #16030 | Fix: S3 file uploads were dropping the directory structure from the filename |
 | [payloadcms/payload](https://github.com/payloadcms/payload/pull/17315) | #17315 | Fix: "Add below" on blocks fields ignored `filterOptions` |
 | [payloadcms/payload](https://github.com/payloadcms/payload/pull/17308) | #17308 | Fix: localized path resolution for fields nested under localized parents |
-| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet/pull/4413) | #4413 | Add `cron_input` support to the Python SDK's workflow/task decorators |
+| [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet/pull/4413) | #4413 (merged) | Add `cron_input` support to the Python SDK's workflow/task decorators |
 
-Plus documentation fixes across Plane, refine, and Hatchet.
+Plus documentation fixes across Medusa, Plane, refine, and Hatchet.
 
 #### Featured projects
 
